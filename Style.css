@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    
+
+}
+h1{
+    line-height:49px;
+    font-weight: normal;
+    color:#3F3D56;
+}
+
+p{
+    color:#828282;
+
+}
+p span{
+    color:#3F3D56;
+}
+b{
+    color:#EE24FF;
+}
+a{
+    color:#3F3D56;
+    text-decoration: none;
+
+}
+
+a+a{
+    margin-left: 28px;
+
+}
+.wave img{
+    position:absolute;
+    left:0;
+    bottom:0;
+    width:100%;
+
+}
+
